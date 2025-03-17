@@ -1,6 +1,6 @@
 ### AlexNet_Hopfield_DQN_VAE_Tutorials
-深層学習の初心者用のチュートリアルのコードです。
-Google Colabで動かせるようにipynb形式です。
+深層学習の初心者用のチュートリアルコードです。
+Google Colabで動かせるipynb形式です。
 使い方は以下の通りです。
 
 ------------
